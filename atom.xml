@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[SEED]]></title>
+  <subtitle><![CDATA[Font-end Development]]></subtitle>
+  <link href="/seedliu/atom.xml" rel="self"/>
+  <link href="http://seedliu.github.io/seedliu/"/>
+  <updated>2014-06-05T10:30:25.930Z</updated>
+  <id>http://seedliu.github.io/seedliu/</id>
+  
+  <author>
+    <name><![CDATA[瓜籽]]></name>
+    <email><![CDATA[zjk.liuwei@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[jade]]></title>
+    <link href="http://seedliu.github.io/seedliu/2014/06/04/jade/"/>
+    <id>http://seedliu.github.io/seedliu/2014/06/04/jade/</id>
+    <published>2014-06-04T09:25:10.000Z</published>
+    <updated>2014-06-04T14:44:47.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Jade_HTML_Template">Jade HTML Template</h1>
+<p>每一个做前端开发的人应该都亲身经历过写HTML的时候。</p>
+<p>一段完整的HTML片段如下：</p>
+<pre><code><span class="tag">&lt;<span class="title">html</span>&gt;</span>
+    <span class="tag">&lt;<span class="title">head</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">title</span>&gt;</span>xxxx<span class="tag">&lt;/<span class="title">title</span>&gt;</span>
+    <span class="tag">&lt;/<span class="title">head</span>&gt;</span>
+
+    <span class="tag">&lt;<span class="title">body</span>&gt;</span><span class="tag">&lt;/<span class="title">body</span>&gt;</span>
+<span class="tag">&lt;/<span class="title">html</span>&gt;</span>
+</code></pre><p>fuck！怎么这么长！还要写这么多的尖括号！这要是一个4屏的页面，我得写多少的括号呀！fuck！就算利用上HTML利器Emmet那最终生成的页面也会有非常多的HTML标签存在，这在以后的重用，修改都会造成一定程度上的困难。</p>
+]]></content>
+    
+    
+      <category term="jade HTML template" scheme="http://seedliu.github.io/seedliu/tags/jade%20HTML%20template/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://seedliu.github.io/seedliu/2014/06/04/hello-world/"/>
+    <id>http://seedliu.github.io/seedliu/2014/06/04/hello-world/</id>
+    <published>2014-06-04T05:39:19.000Z</published>
+    <updated>2014-06-04T05:39:18.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank">trobuleshooting</a> or you can ask me on <a href="https://github.com/tommy351/hexo/issues" target="_blank">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre>$ hexo new <span class="string">"My New Post"</span>
+</pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre>$ hexo server
+</pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre>$ hexo generate
+</pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre>1
+</pre></td><td class="code"><pre>$ hexo deploy
+</pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank">Deployment</a></p>
+]]></content>
+    
+    
+      <category term="aa" scheme="http://seedliu.github.io/seedliu/tags/aa/"/>
+    
+      <category term="BB" scheme="http://seedliu.github.io/seedliu/categories/BB/"/>
+    
+  </entry>
+  
+</feed>
